@@ -7,7 +7,7 @@ export interface IProduto {
     imagem: string;
 }
 
-export interface IProdutoCarrinho extends IProduto{
+export interface IProdutoCarrinho extends IProduto {
     quantidade: number;
 }
 
