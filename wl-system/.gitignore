@@ -45,7 +45,6 @@ src/assets
 
 .editorconfig
 
-angular.json
 
 package-lock.json
 package.json
